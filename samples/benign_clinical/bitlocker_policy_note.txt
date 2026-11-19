@@ -1,0 +1,6 @@
+Clinic IT note (synthetic)
+
+Workstation disks are encrypted at rest with BitLocker.
+Nightly copies go to the backup share.
+Staff should leave disk encryption on.
+This note is an operations reminder. It is not a demand for payment.
