@@ -1,0 +1,9 @@
+Outpatient schedule (synthetic, not a patient list)
+
+Monday 09:00  Example Clinician A  clinic block
+Monday 13:00  Example Clinician B  results review
+Tuesday 09:00  Example Clinician A  procedure hold
+Wednesday 08:00  Front desk meeting
+Friday 15:00  Downtime-binder drill
+
+No patient names. No orders. Lab fixture only.
